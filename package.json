@@ -1,0 +1,23 @@
+{
+  "name": "validation-library",
+  "version": "1.0.0",
+  "author": "alfian nuha <alfian.nuha@gmail.com>",
+  "description": "validation library ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfiannuha/nodejs-library.git"
+  },
+  "keywords": [
+    "Library",
+    "nodejs"
+  ],
+  "bugs": {
+    "url": "https://github.com/alfiannuha/nodejs-library/issues"
+  },
+  "homepage": "https://github.com/alfiannuha/nodejs-library#readme"
+}
